@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/UserManagement.APIs/">
+    <Project Path="UserManagement.API/UserManagement.API.csproj" />
+  </Folder>
+  <Folder Name="/UserManagement.Datas/">
+    <Project Path="../../UserManagement.Data/UserManagement.Data/UserManagement.Data.csproj" />
+  </Folder>
+  <Folder Name="/UserManagement.Identities/">
+    <Project Path="../../UserManagement.Identity/UserManagement.Identity/UserManagement.Identity.csproj" />
+  </Folder>
+</Solution>
